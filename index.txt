@@ -1,0 +1,440 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Wellcare Orthopedic & Trauma Centre | Orthopedic Hospital Kiambu</title>
+
+    <meta name="description" content="Expert orthopedic and trauma care in Kiambu. Fracture treatment, trauma management, joint replacement surgery, rehabilitation, X-ray imaging, and emergency orthopedic services available 24/7.">
+
+    <meta name="keywords" content="Orthopedic Hospital Kiambu, Trauma Centre Kiambu, Orthopedic Specialist Kenya, Fracture Treatment Kiambu, Joint Replacement Kenya">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- TOP BAR -->
+    <div class="top-bar">
+        <div class="container">
+            <span>📍 Indian Bazaar, Old Kiambu, Kiambu</span>
+            <span>📞 +254 741 712702</span>
+            <span>🕒 Open 24 Hours</span>
+        </div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="container nav-container">
+
+            <div class="logo">
+                <h2>Wellcare</h2>
+                <span>Orthopedic & Trauma Centre</span>
+            </div>
+
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="insurance.html">Insurance</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+
+            <div class="nav-buttons">
+                <a href="tel:+254741712702" class="btn btn-outline">
+                    Call Now
+                </a>
+
+                <a href="appointment.html" class="btn btn-primary">
+                    Book Appointment
+                </a>
+            </div>
+
+            <div class="mobile-menu-btn">
+                ☰
+            </div>
+
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <div class="badges">
+                    <span class="badge">Open 24 Hours</span>
+                    <span class="badge">Insurance Accepted</span>
+                </div>
+
+                <h1>
+                    Expert Orthopedic &
+                    Trauma Care You Can Trust
+                </h1>
+
+                <p>
+                    Comprehensive musculoskeletal care,
+                    fracture treatment, joint replacement surgery,
+                    trauma management, and diagnostic services
+                    available 24/7 in Kiambu.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="appointment.html" class="btn btn-primary">
+                        Book Appointment
+                    </a>
+
+                    <a href="services.html" class="btn btn-secondary">
+                        View Services
+                    </a>
+                </div>
+
+                <div class="trust-indicators">
+
+                    <div class="indicator">
+                        <h3>24/7</h3>
+                        <p>Emergency Care</p>
+                    </div>
+
+                    <div class="indicator">
+                        <h3>SHA</h3>
+                        <p>Insurance Accepted</p>
+                    </div>
+
+                    <div class="indicator">
+                        <h3>3.7★</h3>
+                        <p>Google Reviews</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="hero-image">
+                <img src="images/hero-doctor.jpg"
+                     alt="Orthopedic Specialist">
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ABOUT PREVIEW -->
+    <section class="about-preview">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Specialized Orthopedic Care Under One Roof</h2>
+
+                <p>
+                    Welcome to Wellcare Orthopedic and Trauma Centre,
+                    your premier destination for comprehensive
+                    musculoskeletal care.
+                </p>
+            </div>
+
+            <div class="about-grid">
+
+                <div class="about-card">
+                    <h3>Expert Specialists</h3>
+                    <p>
+                        Dedicated orthopedic professionals focused on
+                        delivering quality treatment and recovery.
+                    </p>
+                </div>
+
+                <div class="about-card">
+                    <h3>Modern Equipment</h3>
+                    <p>
+                        Advanced diagnostic imaging and orthopedic
+                        treatment technology.
+                    </p>
+                </div>
+
+                <div class="about-card">
+                    <h3>Patient-Centered Care</h3>
+                    <p>
+                        Personalized treatment plans tailored to every
+                        patient's needs.
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="center-btn">
+                <a href="about.html" class="btn btn-primary">
+                    Learn More
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- SERVICES -->
+    <section class="services">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Our Orthopedic Services</h2>
+
+                <p>
+                    Comprehensive orthopedic and trauma care solutions.
+                </p>
+            </div>
+
+            <div class="services-grid">
+
+                <div class="service-card">
+                    <h3>Fracture Management</h3>
+                    <p>Diagnosis, treatment and recovery support.</p>
+                </div>
+
+                <div class="service-card">
+                    <h3>Trauma Care</h3>
+                    <p>Emergency orthopedic injury treatment.</p>
+                </div>
+
+                <div class="service-card">
+                    <h3>X-Ray Imaging</h3>
+                    <p>Fast and accurate diagnostics.</p>
+                </div>
+
+                <div class="service-card">
+                    <h3>Joint Replacement</h3>
+                    <p>Advanced surgical solutions.</p>
+                </div>
+
+                <div class="service-card">
+                    <h3>Sports Injuries</h3>
+                    <p>Specialized treatment and rehabilitation.</p>
+                </div>
+
+                <div class="service-card">
+                    <h3>Rehabilitation</h3>
+                    <p>Helping patients regain mobility.</p>
+                </div>
+
+            </div>
+
+            <div class="center-btn">
+                <a href="services.html" class="btn btn-primary">
+                    View All Services
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- WHY CHOOSE US -->
+    <section class="why-us">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Why Choose Wellcare?</h2>
+            </div>
+
+            <div class="features-grid">
+
+                <div class="feature-card">
+                    <h3>24/7 Emergency Care</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Experienced Specialists</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Modern Equipment</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Insurance Coverage</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Advanced Procedures</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Convenient Location</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section class="testimonials">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Patient Testimonials</h2>
+            </div>
+
+            <div class="testimonial-grid">
+
+                <div class="testimonial-card">
+                    <h4>James K.</h4>
+                    <div class="stars">★★★★★</div>
+                    <p>
+                        Excellent fracture treatment and follow-up care.
+                    </p>
+                </div>
+
+                <div class="testimonial-card">
+                    <h4>Mary N.</h4>
+                    <div class="stars">★★★★★</div>
+                    <p>
+                        Professional doctors and outstanding service.
+                    </p>
+                </div>
+
+                <div class="testimonial-card">
+                    <h4>David W.</h4>
+                    <div class="stars">★★★★★</div>
+                    <p>
+                        My recovery after surgery was smooth and well
+                        supported.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- INSURANCE -->
+    <section class="insurance">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Insurance & Payment Options</h2>
+
+                <p>
+                    We accept SHA and other insurance providers to make
+                    quality orthopedic care affordable.
+                </p>
+            </div>
+
+            <div class="insurance-grid">
+
+                <div class="insurance-item">SHA</div>
+                <div class="insurance-item">Insurance Partner</div>
+                <div class="insurance-item">Insurance Partner</div>
+                <div class="insurance-item">Insurance Partner</div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- CTA -->
+    <section class="cta">
+
+        <div class="container">
+
+            <h2>
+                Need Orthopedic Care?
+            </h2>
+
+            <p>
+                Contact our team today or schedule your appointment.
+            </p>
+
+            <div class="cta-buttons">
+
+                <a href="appointment.html" class="btn btn-primary">
+                    Book Appointment
+                </a>
+
+                <a href="tel:+254741712702" class="btn btn-outline">
+                    Call Now
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+
+        <div class="container footer-grid">
+
+            <div>
+                <h3>Wellcare Orthopedic & Trauma Centre</h3>
+                <p>
+                    Comprehensive orthopedic and trauma care in Kiambu.
+                </p>
+            </div>
+
+            <div>
+                <h4>Quick Links</h4>
+
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>Contact</h4>
+
+                <p>Indian Bazaar, Old Kiambu</p>
+                <p>+254 741 712702</p>
+                <p>Open 24 Hours</p>
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+            <p>
+                © 2026 Wellcare Orthopedic & Trauma Centre.
+                All Rights Reserved.
+            </p>
+        </div>
+
+    </footer>
+
+    <!-- FLOATING BUTTONS -->
+
+    <a href="https://wa.me/254741712702"
+       class="whatsapp-btn"
+       target="_blank">
+        WhatsApp
+    </a>
+
+    <a href="tel:+254741712702"
+       class="emergency-btn">
+        Emergency Call
+    </a>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>

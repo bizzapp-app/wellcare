@@ -1,0 +1,383 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orthopedic Services | Wellcare Orthopedic & Trauma Centre</title>
+
+    <meta name="description"
+          content="Orthopedic consultations, fracture management, trauma care, joint replacement surgery, rehabilitation, sports injury treatment and diagnostic imaging in Kiambu.">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+</head>
+<body>
+
+    <!-- TOP BAR -->
+
+    <div class="top-bar">
+        <div class="container">
+            <span>📍 Indian Bazaar, Old Kiambu</span>
+            <span>📞 +254 741 712702</span>
+            <span>🕒 Open 24 Hours</span>
+        </div>
+    </div>
+
+    <!-- HEADER -->
+
+    <header class="header">
+
+        <div class="container nav-container">
+
+            <div class="logo">
+                <h2>Wellcare</h2>
+                <span>Orthopedic & Trauma Centre</span>
+            </div>
+
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html" class="active">Services</a></li>
+                    <li><a href="insurance.html">Insurance</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+
+            <div class="nav-buttons">
+                <a href="appointment.html" class="btn btn-primary">
+                    Book Appointment
+                </a>
+            </div>
+
+            <div class="mobile-menu-btn">☰</div>
+
+        </div>
+
+    </header>
+
+    <!-- PAGE HERO -->
+
+    <section class="page-hero">
+
+        <div class="container">
+
+            <h1>Our Orthopedic Services</h1>
+
+            <p>
+                Comprehensive orthopedic and trauma care
+                delivered by experienced specialists.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- SERVICES INTRO -->
+
+    <section>
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <h2>Comprehensive Orthopedic Care</h2>
+
+                <p>
+                    From emergency trauma treatment to advanced
+                    orthopedic surgery and rehabilitation,
+                    we provide complete musculoskeletal care.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- SERVICES GRID -->
+
+    <section class="services-page">
+
+        <div class="container">
+
+            <div class="services-grid-large">
+
+                <div class="service-card">
+                    <div class="service-icon">🦴</div>
+                    <h3>Fracture Management</h3>
+                    <p>
+                        Diagnosis, casting, fixation, surgery,
+                        and follow-up care for fractures.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">🚑</div>
+                    <h3>Trauma Care</h3>
+                    <p>
+                        Immediate assessment and treatment of
+                        orthopedic injuries and emergencies.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">👨‍⚕️</div>
+                    <h3>Orthopedic Consultation</h3>
+                    <p>
+                        Expert evaluation and personalized treatment plans.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">🩻</div>
+                    <h3>X-Ray Imaging</h3>
+                    <p>
+                        Fast and accurate diagnostic imaging
+                        for bones and joints.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">🦵</div>
+                    <h3>Joint Replacement Surgery</h3>
+                    <p>
+                        Advanced procedures designed to restore mobility.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">🏃</div>
+                    <h3>Sports Injury Treatment</h3>
+                    <p>
+                        Specialized care for athletic injuries
+                        and recovery programs.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">🦿</div>
+                    <h3>Bone & Joint Care</h3>
+                    <p>
+                        Treatment for musculoskeletal disorders
+                        affecting mobility and function.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">💊</div>
+                    <h3>Arthritis Management</h3>
+                    <p>
+                        Long-term solutions for pain management
+                        and improved mobility.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">💪</div>
+                    <h3>Rehabilitation Services</h3>
+                    <p>
+                        Recovery programs designed to restore strength.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">⛑️</div>
+                    <h3>Emergency Orthopedic Care</h3>
+                    <p>
+                        Available 24/7 for urgent orthopedic injuries.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">📋</div>
+                    <h3>Follow-Up Care</h3>
+                    <p>
+                        Continuous monitoring and support after treatment.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">📊</div>
+                    <h3>Musculoskeletal Assessments</h3>
+                    <p>
+                        Detailed evaluations to identify and address issues.
+                    </p>
+                    <a href="appointment.html" class="btn btn-primary">
+                        Learn More
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- EMERGENCY SECTION -->
+
+    <section class="emergency-section">
+
+        <div class="container">
+
+            <div class="emergency-content">
+
+                <h2>24/7 Orthopedic Emergency Services</h2>
+
+                <p>
+                    Trauma and orthopedic emergencies require
+                    immediate attention. Our team is available
+                    around the clock to provide urgent care.
+                </p>
+
+                <a href="tel:+254741712702"
+                   class="btn btn-primary">
+                    Call Emergency Line
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- WHY CHOOSE US -->
+
+    <section>
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Why Choose Our Services?</h2>
+            </div>
+
+            <div class="features-grid">
+
+                <div class="feature-card">
+                    <h3>Experienced Specialists</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Advanced Technology</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Comprehensive Care</h3>
+                </div>
+
+                <div class="feature-card">
+                    <h3>Insurance Accepted</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- CTA -->
+
+    <section class="cta">
+
+        <div class="container">
+
+            <h2>Book Your Orthopedic Consultation Today</h2>
+
+            <p>
+                Let our specialists help you regain mobility
+                and improve your quality of life.
+            </p>
+
+            <div class="cta-buttons">
+
+                <a href="appointment.html"
+                   class="btn btn-primary">
+                    Book Appointment
+                </a>
+
+                <a href="tel:+254741712702"
+                   class="btn btn-outline">
+                    Call Now
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer class="footer">
+
+        <div class="container footer-grid">
+
+            <div>
+                <h3>Wellcare Orthopedic & Trauma Centre</h3>
+                <p>
+                    Expert orthopedic care and trauma services
+                    in Kiambu.
+                </p>
+            </div>
+
+            <div>
+                <h4>Quick Links</h4>
+
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>Contact</h4>
+
+                <p>📞 +254 741 712702</p>
+                <p>📍 Indian Bazaar, Old Kiambu</p>
+                <p>🕒 Open 24 Hours</p>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>
